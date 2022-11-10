@@ -1,0 +1,30 @@
+/*Charcode*/
+#out1{
+    position: relative;
+    float:inline-end;
+}
+
+#out2{
+    position: relative;
+    float: inline-end;
+}
+
+.slider{
+    width: 100px;
+    height: 300px;
+    border: 3px solid purple;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.line1{
+    position: relative;
+    box-sizing: border-box;
+    height: 700px;
+    width: 100px;
+    transition: 1s;
+
+}
+.foto{
+    float:left;
+}
